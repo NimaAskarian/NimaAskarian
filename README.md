@@ -1,0 +1,3 @@
+- Hi, I’m @NimaAskarian 
+- I like Front End Developing.
+- Currently learning TypeScript, React and Redux.
