@@ -3,7 +3,7 @@
 
 - Check out [Nitab](https://github.com/nimaaskarian/nitab), a powerful, opensource and neat new tab extension.
 
-- And check out my [portfolio](https://nimaaskarian.github.io/portfolio/) if you want to know me better 
+- And check out my [portfolio](https://nimaaskarian.github.io/) if you want to know me better 
 
 - Ask me about **JS, react, shell scripting**,
 - In exchange, teach me about **CPP, Shell scripting and Linux adminstration**
